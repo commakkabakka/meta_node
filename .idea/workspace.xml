@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7517281c-ef69-499a-9e3b-98c9af6cabc8" name="Changes" comment="#✍-任务1-梦的开始">
-      <change afterPath="$PROJECT_DIR$/task2/main1.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main10.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main2.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main4.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main5.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main6.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main7.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main8.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/main9.go" afterDir="false" />
+    <list default="true" id="7517281c-ef69-499a-9e3b-98c9af6cabc8" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/meta_node" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,8 +68,8 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17161459" />
-      <window_info id="Commit" order="1" weight="0.17161459" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17161459" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.17161459" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.23776042" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
@@ -158,7 +148,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#✍-任务1-梦的开始" />
-    <option name="LAST_COMMIT_MESSAGE" value="#✍-任务1-梦的开始" />
+    <MESSAGE value="#✍-任务2-语言进阶" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
